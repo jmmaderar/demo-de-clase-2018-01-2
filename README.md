@@ -3,7 +3,7 @@ como crear un repositorio
 
 Esta es un palabra en **negrita**
 
-Esta es una palabra en ***italaica***
+Esta es una palabra en ***italica***
 
 Este es un código en la misma línea  `print("hola a todos")`.
 
